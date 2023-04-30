@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhiteHatDiary
 - 👀 I’m interested in 
 - 🌱 I’m currently learning multiple coding languages and pursuing a BSCIA at Western Governors University
-- 💞️ I’m looking to collaborate on research, development and production of tools and resources to assist todays cyber securit professionals.
+- 💞️ I’m looking to collaborate on research, development and production of tools and resources to assist todays     cyber security professionals.
 - 📫 For more information you can reach me at info@whitehatdiary.com
 
 <!---
